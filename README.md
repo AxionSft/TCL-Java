@@ -50,14 +50,13 @@ follow those step:
  
 ![image](https://user-images.githubusercontent.com/94248011/174458486-81236a8a-14af-440a-add3-9ab0b4d39cac.png)
 
-* 2 task > build > build
+* 2 task > build > jar
  
-![image](https://user-images.githubusercontent.com/94248011/174458537-8fbf1386-6137-401a-b377-21062c3d32e6.png)
+![image](https://user-images.githubusercontent.com/94248011/175834312-52356ffb-4fb9-41a2-8798-2e2227451bdb.png)
 
-* 3 you should have the .jar for minecraft, and the .jar with only source.
+* 3 you should have the .jar for minecraft.
 
 ![image](https://user-images.githubusercontent.com/94248011/174458553-aca7dfcf-8213-4a95-ab61-ab6dff5dab69.png)
-
 
 * 4 check ![CLICK ME](https://github.com/sdxqw/TCL-MDK/blob/master/MyClient.json) and modify only this things:
 * 1: rename the file to your client name.
