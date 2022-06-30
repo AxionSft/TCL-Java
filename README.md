@@ -2,7 +2,7 @@
   <a href="https://github.com/sdxqw/TCL-MDK">TCL-MDK</a>
 </h1>
 
-<h4 align="center">Mod development kit for coding Tweaker Clients.</h4>
+<h4 align="center">TCL based on Tweaker Class and Mixins.</h4>
 
 <h3 align="center">
     <a href="#get-start">Get start</a> •
