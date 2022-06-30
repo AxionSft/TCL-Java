@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a href="https://github.com/sdxqw/TCL-MDK">TCL-MDK</a>
+  <a href="https://github.com/sdxqw/TCL-Java">TCL-MDK</a>
 </h1>
 
-<h4 align="center">Mod development kit for coding Tweaker Clients.</h4>
+<h4 align="center">TCL based on Tweaker Class and Mixins.</h4>
 
 <h3 align="center">
     <a href="#get-start">Get start</a> •
@@ -32,7 +32,7 @@ If you are here you need to setup our project!. Please follow this steps:
 if you get this error:
 
 ```java
-TCL-MDK:main:Could not find net.minecraft:minecraftBin:1.8.9.
+TCL-Java:main:Could not find net.minecraft:minecraftBin:1.8.9.
 ```
 
 click the gradle icon. gradle > forgegradle > SetupDecompWorkspace.
@@ -50,16 +50,15 @@ follow those step:
  
 ![image](https://user-images.githubusercontent.com/94248011/174458486-81236a8a-14af-440a-add3-9ab0b4d39cac.png)
 
-* 2 task > build > build
+* 2 task > build > jar
  
 ![image](https://user-images.githubusercontent.com/94248011/174458537-8fbf1386-6137-401a-b377-21062c3d32e6.png)
 
-* 3 you should have the .jar for minecraft, and the .jar with only source.
+* 3 you should have the .jar for minecraft.
 
-![image](https://user-images.githubusercontent.com/94248011/174458553-aca7dfcf-8213-4a95-ab61-ab6dff5dab69.png)
+![image](https://user-images.githubusercontent.com/94248011/175834316-dffefe34-821a-4059-b0bc-3de7d0e3d193.png)
 
-
-* 4 check ![CLICK ME](https://github.com/sdxqw/TCL-MDK/blob/master/MyClient.json) and modify only this things:
+* 4 check ![CLICK ME](https://github.com/sdxqw/TCL-Java/blob/master/MyClient.json) and modify only this things:
 * 1: rename the file to your client name.
 * 1-2: "id" -> your client name.
 * 2: "name": "myclient:MyClient:0.1" -> this its the folder and the jar should be name.
@@ -100,7 +99,7 @@ thanks to TheKodeToad for his repo so i could fix mine
 
 ## Contributing
 
-Want to help improve TCL-MDK?, but how?:
+Want to help improve TCL-Java?, but how?:
 
 * By making an fork of the project
 * Sharing this repo
