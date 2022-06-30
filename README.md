@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/sdxqw/TCL-MDK">TCL-MDK</a>
+  <a href="https://github.com/sdxqw/TCL-Java">TCL-MDK</a>
 </h1>
 
 <h4 align="center">TCL based on Tweaker Class and Mixins.</h4>
@@ -32,7 +32,7 @@ If you are here you need to setup our project!. Please follow this steps:
 if you get this error:
 
 ```java
-TCL-MDK:main:Could not find net.minecraft:minecraftBin:1.8.9.
+TCL-Java:main:Could not find net.minecraft:minecraftBin:1.8.9.
 ```
 
 click the gradle icon. gradle > forgegradle > SetupDecompWorkspace.
@@ -58,7 +58,7 @@ follow those step:
 
 ![image](https://user-images.githubusercontent.com/94248011/175834316-dffefe34-821a-4059-b0bc-3de7d0e3d193.png)
 
-* 4 check ![CLICK ME](https://github.com/sdxqw/TCL-MDK/blob/master/MyClient.json) and modify only this things:
+* 4 check ![CLICK ME](https://github.com/sdxqw/TCL-Java/blob/master/MyClient.json) and modify only this things:
 * 1: rename the file to your client name.
 * 1-2: "id" -> your client name.
 * 2: "name": "myclient:MyClient:0.1" -> this its the folder and the jar should be name.
@@ -99,7 +99,7 @@ thanks to TheKodeToad for his repo so i could fix mine
 
 ## Contributing
 
-Want to help improve TCL-MDK?, but how?:
+Want to help improve TCL-Java?, but how?:
 
 * By making an fork of the project
 * Sharing this repo
