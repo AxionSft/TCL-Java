@@ -61,6 +61,7 @@ dependencies {
 		exclude module: 'gson'
 		exclude module: 'commons-io'
 	}
+	tclmdk("net.minecraftforge:eventbus:0.9.2")
 }
 
 processResources {
