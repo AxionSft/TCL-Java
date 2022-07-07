@@ -95,7 +95,8 @@ where put your MyClient.json like:
 # Thanks
 
 thanks to xcfrg for repo!
-thanks to TheKodeToad for his repo so i could fix mine
+thanks to asbyth for repo!
+thanks to TheKodeToad for his repo so i could fix mine!
 
 ## Contributing
 
