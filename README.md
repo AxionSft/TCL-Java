@@ -6,7 +6,7 @@
 
 <h3 align="center">
     <a href="#get-start">Get start</a> •
-     <a href="#building-with-optfine">Building With Optfine</a> •
+     <a href="#building-with-optfine">Building With OptiFine</a> •
     <a href="#key-features">Key Features</a> •
     <a href="#thanks">Thanks</a> •
     <a href="#contributing">Contributing</a> •
@@ -38,11 +38,11 @@ TCL-Java:main:Could not find net.minecraft:minecraftBin:1.8.9.
 click the gradle icon. gradle > forgegradle > SetupDecompWorkspace.
 wait the procces finish, click refresh icon, and the error will be fixed.
 
-## Building With Optfine
+## Building With OptiFine
 
 Today you gonna learn how to build an client!
 
-!!!!!MAKE SURE TO HAVE OPTFINE INSTALLED!!!!!
+!!!!!MAKE SURE TO HAVE OPTIFINE INSTALLED!!!!!
 
 follow those step:
 
@@ -89,7 +89,7 @@ where put your MyClient.json like:
 
 * Good guide!
 * 1.8.9 Optimized tcl for your client!
-* Guide for build it with optfine. (LEGAL!)
+* Guide for build it with OptiFine. (LEGAL!)
 * Example client!
 
 # Thanks
