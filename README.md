@@ -2,7 +2,7 @@
   <a href="https://github.com/sdxqw/TCL-Java">TCL-Java</a>
 </h1>
 
-<h4 align="center">TCL based on Tweaker Class and Mixins.</h4>
+<h4 align="center">Tweaker class based in Gradle.</h4>
 
 # Start using TCL-Java
 Please check our [_**GUIDE**_](https://github.com/AxstSoftware/TCL-Java/wiki)
