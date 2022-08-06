@@ -9,22 +9,21 @@ Please check our [_**GUIDE**_](https://github.com/AxstSoftware/TCL-Java/wiki)
 
 ## Key Features
 
-* Good guide!
-* 1.8.9 Optimized tcl for your client!
-* Guide for build it with OptiFine. (LEGAL!)
-* Example client!
+* Easy to use!
+* Clear and simple to follow instructions!
+* Provided with sample code!
 
 # Thanks
 
-thanks to xcfrg for repo!
-thanks to asbyth for repo!
+thanks to xcfrg for repo!</br>
+thanks to asbyth for repo!</br>
 thanks to TheKodeToad for his repo so i could fix mine!
 
 ## Contributing
 
-Want to help improve TCL-Java?, but how?:
+Ways to contribute to TCL-Java:
 
-* By making an fork of the project
+* Making an fork of the project
 * Sharing this repo
 * Help improve the guide
 
