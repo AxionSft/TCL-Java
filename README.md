@@ -16,7 +16,8 @@ Please check our [_**GUIDE**_](https://github.com/AxstSoftware/TCL-Java/wiki)
 # Thanks
 
 thanks to xcfrg for repo!</br>
-thanks to TheKodeToad for his repo so i could fix mine!
+thanks to asbyth for repo!</br>
+thanks to TheKodeToad for his repo so i could fix mine!</br>
 
 ## Contributing
 
