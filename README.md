@@ -6,7 +6,7 @@
 
 # Start using TCL-Java
 Please check our [_**GUIDE**_](https://github.com/AxstSoftware/TCL-Java/wiki)</br>
-Please check how to use [_**MIXINS Wiki**_](https://github.com/SpongePowered/Mixin/wiki) / [_**MIXINS Docs**_](https://jenkins.liteloader.com/view/Other/job/Mixin/javadoc/index.html) / [_**MIXINS Discord**_](https://discord.gg/sponge) / [_**MIXINS PaceCodes**_](https://github.com/PaceCodes/Mixin-Tutorial) / [_**Mixins explanation (check what you need)**_](https://www.youtube.com/watch?v=HQUkWjMWTik)
+Please check how to use [_**MIXINS Wiki**_](https://github.com/SpongePowered/Mixin/wiki) / [_**MIXINS Docs**_](https://jenkins.liteloader.com/view/Other/job/Mixin/javadoc/index.html) / [_**MIXINS Discord**_](https://discord.gg/sponge) / [_**MIXINS PaceCodes**_](https://github.com/PaceCodes/Mixin-Tutorial) / [_**MIXINS explanation (check what you need)**_](https://www.youtube.com/watch?v=HQUkWjMWTik)
 
 ## Key Features
 
