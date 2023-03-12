@@ -6,8 +6,8 @@ buildscript {
 		maven { url 'https://jitpack.io' }
 	}
 	dependencies {
-		classpath 'com.github.sdxqw:ForgeGradle:f2c5bb338e'
-		classpath 'com.github.sdxqw:MixinGradle:0.6-SNAPSHOT'
+		classpath 'com.github.gatooooooo:ForgeGradle:f2c5bb338e'
+		classpath 'com.github.xcfrg:MixinGradle:0.6-SNAPSHOT'
 	}
 }
 
